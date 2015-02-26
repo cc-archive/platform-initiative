@@ -7,7 +7,7 @@ The Creative Commons platform initiative works to grow the commons and build a m
 
 | Role  | Person |
 | ------------- | ------------- |
-| Driver  | [Jane Park](https://github.com/janeatcc)  |
-| Approvers  | [Ryan Merkley](https://github.com/ryanmerkley), [Diane Peters](https://github.com/peterspdx), [Matt Lee](https://github.com/mattl), [Jane Park](https://github.com/janeatcc)  |
-| Contributors | [Eric Steuer](https://github.com/ericsteuer), [Sarah Pearson](https://github.com/sarahpearson), [Cable Green](https://github.com/cablegreen), [Paul Stacey](https://github.com/pgstacey), [Timothy Vollmer](https://github.com/tvol), Jay Walsh, Add yourselves here |
+| Driver  | [Jane](https://github.com/janeatcc)  |
+| Approvers  | [Ryan](https://github.com/ryanmerkley), [Diane](https://github.com/peterspdx), [Matt](https://github.com/mattl)  |
+| Contributors | [Eric](https://github.com/ericsteuer), [Sarah](https://github.com/sarahpearson), [Cable](https://github.com/cablegreen), [Paul](https://github.com/pgstacey), [Timothy](https://github.com/tvol), Jay, Add yourselves here |
 | Informed | Add yourselves here |
