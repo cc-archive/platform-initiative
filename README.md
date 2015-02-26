@@ -1,6 +1,7 @@
 # platform-initiative
 
-please put a description here
+The Creative Commons platform initiative works to grow the commons and build a movement by creating easy, clear, and enjoyable ways for users to contribute to the commons. CC will partner with platforms to: research the impact CC licenses have for users; increase CC visibility and education on platforms; increase community engagement with the commons; solve legal problems that inhibit the free flow of content and sharing on and across platforms; improve the technical discovery and reuse capabilities of platforms; and increase platforms’ understanding of CC through concrete value propositions. Additionally, CC will explore enhancing current products or developing new ones and new revenue models that might arise from platform partnerships. 
+
 
 ## Who's working on it at Creative Commons?
 
