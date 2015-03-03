@@ -8,6 +8,6 @@ The Creative Commons platform initiative works to grow the commons and build a m
 | Role  | Person |
 | ------------- | ------------- |
 | Driver  | [Jane](https://github.com/janeatcc)  |
-| Approvers  | [Ryan](https://github.com/ryanmerkley), [Diane](https://github.com/peterspdx), [Matt](https://github.com/mattl)  |
-| Contributors | [Eric](https://github.com/ericsteuer), [Sarah](https://github.com/sarahpearson), [Cable](https://github.com/cablegreen), [Paul](https://github.com/pgstacey), [Timothy](https://github.com/tvol), [Diane Peters](https://github.com/peterspdx) Add yourselves here |
+| Accountable  | [Ryan](https://github.com/ryanmerkley), [Diane](https://github.com/peterspdx), [Matt](https://github.com/mattl)  |
+| Consulted | [Eric](https://github.com/ericsteuer), [Sarah](https://github.com/sarahpearson), [Cable](https://github.com/cablegreen), [Paul](https://github.com/pgstacey), [Timothy](https://github.com/tvol), [Diane Peters](https://github.com/peterspdx) Add yourselves here |
 | Informed | Add yourselves here |
