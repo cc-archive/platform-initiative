@@ -14,6 +14,7 @@ For full details, see the wiki starting with our [Theory of Change](https://gith
 | Consulted | [Eric](https://github.com/ericsteuer), [Sarah](https://github.com/sarahpearson), [Cable](https://github.com/cablegreen), [Paul](https://github.com/pgstacey), [Timothy](https://github.com/tvol), [Diane Peters](https://github.com/peterspdx) Add yourselves here |
 | Informed | Add yourselves here |
 
+## Areas of Expertise
 
 Expertise among staff and advisors falls into the following areas:
 
